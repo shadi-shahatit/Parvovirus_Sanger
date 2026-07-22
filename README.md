@@ -44,7 +44,7 @@ Trimmed Sanger reads were assembled into contigs and full sequences using SnapGe
 
 ---
 
-# 1.3 Reference, NCBI Virus, and outgroup sequence collection
+## 1.3 Reference, NCBI Virus, and outgroup sequence collection
 
 ## Reference sequences
 
@@ -107,7 +107,7 @@ seqkit seq *.fa refs/*.fa NCBIvirus_seq_filtered_final.fasta outgroups/*.fasta >
 seqkit stats combined_sample_vac_ref_ncbi_out.fasta
 ```
 
-# 1.4 DNA translation and VP2 ORF selection
+## 1.4 DNA translation and VP2 ORF selection
 
 ## ExPASy translation
 
