@@ -38,7 +38,7 @@ Raw Sanger chromatograms were processed using `sangeranalyseR` (v4) to trim sequ
 
 ---
 
-## 1.2 Contig assembly and full sequence generation using SnapGene
+## 1.2 Contig assembly and full sequence preparation
 
 Trimmed Sanger reads were assembled into contigs and full sequences using SnapGene. Sequence names were manually checked and adjusted to FASTA formatting.
 
